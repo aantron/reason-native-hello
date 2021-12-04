@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@opam/dune": "^2.9",
+    "@opam/reason": "^3.7.0",
+    "ocaml": "^4.12"
+  }
+}
